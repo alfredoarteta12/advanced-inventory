@@ -1,7 +1,6 @@
 # advanced-inventory
-## Historia de Usuario
-_Como dueño de un pequeño negocio,quiero gestionar mi inventario de forma digital y guardarlo en archivos externos,
-para no perder la información al cerrar el programa, analizar el rendimiento de mis ventas y compartir mis datos fácilmente._
+## User Story:
+As a small business owner, I want to manage my inventory digitally and store it in external files, so that I can avoid losing information when closing the program, analyze my sales performance, and easily share my data
 
 ## System Features
 
