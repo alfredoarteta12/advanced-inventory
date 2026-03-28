@@ -19,3 +19,4 @@ Criterios de Aceptación (Checklist)
   [ ] Configurar la persistencia en CSV: Desarrollar la lógica para que el programa escriba los datos en un archivo externo y los lea automáticamente al iniciar la sesión.
   [ ] Implementar el motor de estadísticas: Crear una función que recorra el inventario y calcule datos clave, como el valor total de la mercancía.
   [ ] Añadir el sistema de alertas y validación: Configurar mensajes de aviso que informen al usuario si intenta ingresar datos no válidos o si el archivo de inventario no se encuentra disponible
+<img width="3337" height="2871" alt="advance inventory drawio (1)" src="https://github.com/user-attachments/assets/ffc3f4c4-31a9-4d84-9b15-507c9c695687" />
